@@ -10,3 +10,4 @@ bash scripts/brew/free-download-manager.sh
 bash scripts/brew/sublime-text-install.sh
 bash scripts/brew/tig-install.sh
 bash scripts/brew/telegram-install.sh
+bash scripts/brew/xclip-install.sh
