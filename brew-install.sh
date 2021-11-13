@@ -13,3 +13,4 @@ bash scripts/brew/telegram-install.sh
 bash scripts/brew/xclip-install.sh
 bash scripts/brew/htop-install.sh
 bash scripts/brew/tmux-install.sh
+bash scripts/brew/iterm2-install.sh
