@@ -4,3 +4,4 @@
 
 bash scripts/brew/visual-studio-code-install.sh
 bash scripts/brew/zsh-install.sh
+bash scripts/brew/dbeaver-install.sh
