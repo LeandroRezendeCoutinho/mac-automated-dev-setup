@@ -12,3 +12,4 @@ bash scripts/brew/tig-install.sh
 bash scripts/brew/telegram-install.sh
 bash scripts/brew/xclip-install.sh
 bash scripts/brew/htop-install.sh
+bash scripts/brew/tmux-install.sh
