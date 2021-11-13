@@ -19,3 +19,4 @@ bash scripts/brew/franz-install.sh
 bash scripts/brew/postman-install.sh
 bash scripts/brew/slack-install.sh
 bash scripts/brew/spotify-install.sh
+bash scripts/brew/zoom-install.sh
