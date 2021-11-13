@@ -15,3 +15,4 @@ bash scripts/brew/htop-install.sh
 bash scripts/brew/tmux-install.sh
 bash scripts/brew/iterm2-install.sh
 bash scripts/brew/google-chrome-install.sh
+bash scripts/brew/franz-install.sh
