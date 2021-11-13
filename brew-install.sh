@@ -8,3 +8,4 @@ bash scripts/brew/dbeaver-install.sh
 bash scripts/brew/docker-install.sh
 bash scripts/brew/free-download-manager.sh
 bash scripts/brew/sublime-text-install.sh
+bash scripts/brew/tig-install.sh
