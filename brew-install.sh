@@ -12,6 +12,7 @@ bash scripts/brew/free-download-manager.sh
 bash scripts/brew/google-chrome-install.sh
 bash scripts/brew/htop-install.sh
 bash scripts/brew/iterm2-install.sh
+bash scripts/brew/opera-install.sh
 bash scripts/brew/postman-install.sh
 bash scripts/brew/rectangle-install.sh
 bash scripts/brew/slack-install.sh
