@@ -24,3 +24,4 @@ bash scripts/brew/asdf-install.sh
 bash scripts/brew/cmake-install.sh
 bash scripts/brew/alt-tab-install.sh
 bash scripts/brew/rectangle-install.sh
+bash scripts/brew/stats-install.sh
