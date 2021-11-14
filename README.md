@@ -23,7 +23,6 @@ bash setup.sh
 * docker
 * firefox
 * franz
-* free-download-manager
 * google-chrome
 * htop
 * iterm2
@@ -37,6 +36,7 @@ bash setup.sh
 * tig
 * tmux
 * visual studio code
+* webtorrent
 * xclip
 * zoom
 * zsh
