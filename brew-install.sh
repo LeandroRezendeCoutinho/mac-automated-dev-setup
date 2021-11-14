@@ -7,6 +7,7 @@ bash scripts/brew/asdf-install.sh
 bash scripts/brew/cmake-install.sh
 bash scripts/brew/dbeaver-install.sh
 bash scripts/brew/docker-install.sh
+bash scripts/brew/firefox-install.sh
 bash scripts/brew/franz-install.sh
 bash scripts/brew/free-download-manager.sh
 bash scripts/brew/google-chrome-install.sh
