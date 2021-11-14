@@ -21,11 +21,13 @@ bash setup.sh
 * cmake
 * dbeaver
 * docker
+* firefox
 * franz
 * free-download-manager
 * google-chrome
 * htop
 * iterm2
+* opera
 * postman
 * rectangle
 * slack
