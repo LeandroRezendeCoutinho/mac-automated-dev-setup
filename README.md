@@ -18,6 +18,7 @@ bash setup.sh
 ##### HomeBrew list
 * alt-tab
 * asdf
+* atom
 * cmake
 * dbeaver
 * docker

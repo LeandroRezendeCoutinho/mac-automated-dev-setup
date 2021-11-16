@@ -4,6 +4,7 @@
 
 bash scripts/brew/alt-tab-install.sh
 bash scripts/brew/asdf-install.sh
+bash scripts/brew/atom-install.sh
 bash scripts/brew/cmake-install.sh
 bash scripts/brew/dbeaver-install.sh
 bash scripts/brew/docker-install.sh
