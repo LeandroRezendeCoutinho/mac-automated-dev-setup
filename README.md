@@ -26,6 +26,7 @@ bash setup.sh
 * google-chrome
 * htop
 * iterm2
+* java
 * opera
 * postman
 * rectangle
@@ -44,6 +45,7 @@ bash setup.sh
 ### Environment setup list
 * asdf
 * git
+* java
 * oh-my-zsh
 * tmux
 * zsh
