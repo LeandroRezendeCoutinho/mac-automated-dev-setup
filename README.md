@@ -42,6 +42,7 @@ bash setup.sh
 * zsh
 
 ### Environment setup list
+* asdf
 * git
 * oh-my-zsh
 * tmux
