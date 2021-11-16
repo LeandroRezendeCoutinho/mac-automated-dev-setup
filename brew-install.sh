@@ -10,6 +10,7 @@ bash scripts/brew/docker-install.sh
 bash scripts/brew/firefox-install.sh
 bash scripts/brew/franz-install.sh
 bash scripts/brew/google-chrome-install.sh
+bash scripts/brew/gpg-install.sh
 bash scripts/brew/htop-install.sh
 bash scripts/brew/iterm2-install.sh
 bash scripts/brew/opera-install.sh
