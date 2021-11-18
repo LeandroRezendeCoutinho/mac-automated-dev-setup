@@ -22,6 +22,7 @@ bash setup.sh
 * cmake
 * dbeaver
 * docker
+* dotnet
 * firefox
 * franz
 * google-chrome
