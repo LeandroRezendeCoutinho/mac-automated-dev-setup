@@ -25,6 +25,7 @@ bash setup.sh
 * dotnet
 * firefox
 * franz
+* git-secret
 * google-chrome
 * htop
 * iterm2
