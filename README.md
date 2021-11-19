@@ -1,4 +1,4 @@
-# openSUSE-automated-setup
+# mac-automated-setup
 This repo aims to simplify and automate development environmemt for users of MacOS
 
 ### How to use
